@@ -24,8 +24,8 @@ This project implements a lightweight prototype that listens to spoken digits an
 ### Option 1: Web Interface (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/audio-digit-classifier.git
-cd audio-digit-classifier
+git clone https://github.com/CodeGovindz/Speech-Processing-CloudWalk.git
+cd Speech-Processing-CloudWalk
 
 # Install dependencies
 pip install -r requirements.txt
@@ -174,8 +174,8 @@ seaborn>=0.12.0
 ### Installation Steps
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/audio-digit-classifier.git
-   cd audio-digit-classifier
+   git clone https://github.com/CodeGovindz/Speech-Processing-CloudWalk.git
+   cd Speech-Processing-CloudWalk
    ```
 
 2. **Create Virtual Environment** (recommended)
@@ -305,12 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **librosa**: Exceptional audio processing library
 - **scikit-learn**: Robust machine learning framework
 - **Streamlit**: Beautiful web interface framework
-
-## � Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/audio-digit-classifier/issues)
-- **Documentation**: See `STREAMLIT_README.md` for web interface details
-- **Dataset**: [FSDD on Hugging Face](https://huggingface.co/datasets/mteb/free-spoken-digit-dataset)
 
 ---
 
