@@ -1,0 +1,25 @@
+# Audio Digit Classification System - Requirements
+# Core ML and Audio Processing
+pandas>=1.5.0
+numpy>=1.24.0
+librosa>=0.10.0
+scikit-learn>=1.3.0
+soundfile>=0.12.0
+sounddevice>=0.4.0
+
+# Streamlit Web Interface
+streamlit>=1.28.0
+plotly>=5.15.0
+streamlit-webrtc>=0.47.0
+av>=10.0.0
+
+# Data Processing and Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pyarrow>=13.0.0
+
+# Audio Format Support
+pydub>=0.25.0
+
+# Optional: For better performance
+numba>=0.57.0
